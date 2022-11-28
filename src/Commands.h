@@ -1,4 +1,4 @@
-#define ENMITY_PROTOCOL @"com.hammerandchisel.discord://"
+#define ENMITY_PROTOCOL @"ccom.hammerandchisel.discord://"
 
 NSDictionary* createResponse(NSString *command, NSString *data);
 void sendResponse(NSDictionary *response);
